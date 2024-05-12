@@ -18,7 +18,7 @@ This project implements a REST API for interacting with the KuCoin cryptocurrenc
 To set up this project, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ahKafagy/REST_API_KUCOIN.git
+   git clone https://github.com/ahKafagy/REST_API_FLOWDESK.git
    ```
 2. Navigate to the project directory:
    ```bash
