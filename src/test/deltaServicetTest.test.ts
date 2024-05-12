@@ -68,7 +68,7 @@ describe("DeltaService", () => {
       jest.spyOn(axios, "get").mockResolvedValueOnce(simTrades);
 
       await expect(deltaService.calculateCumulativeDelta(pair)).rejects.toThrow(
-        "existe pas"
+        "Does not exist"
       );
     });
     //--------------------------------------------------------------------------
